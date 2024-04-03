@@ -1,0 +1,6 @@
+# application.yml
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/dbo
+    username: root
+    password: root
