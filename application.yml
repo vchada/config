@@ -1,6 +1,6 @@
 # application.yml
 spring:
   datasource:
-    url1: jdbc:mysql://localhost:3306/dbo
-    username1: root
-    password1: root
+    url: jdbc:mysql://localhost:3306/dbo
+    username: root
+    password: root
